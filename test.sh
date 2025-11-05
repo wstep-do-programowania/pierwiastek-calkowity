@@ -5,7 +5,7 @@ echo "Running tests..."
 echo
 
 # Path to executable
-prog="./palindrom"
+prog="./pierwiastek"
 
 # Check that the program exists
 if [ ! -x "$prog" ]; then
