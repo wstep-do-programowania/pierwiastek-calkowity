@@ -1,4 +1,4 @@
-Napisz program, który będzie znajdował pierwiastek całkowity podanej liczby naturalnej. Jest to podłoga z pierwiastka rzeczywistego: $f(x) = \lfloor\sqrt{n}\rfloor$. Co ważne, nie można używać funkcji z `math.h`, wymagane jest użycie wyszukiwania binarnego po wyniku, napisanego samodzielnie (tzn. **nie można** użyć bsearch itp. z `stdlib.h`).
+Napisz program, który będzie znajdował pierwiastek całkowity podanej liczby naturalnej. Jest to podłoga z pierwiastka rzeczywistego: $f(x) = \lfloor\sqrt{n}\rfloor$. Co ważne, nie można używać funkcji z `math.h`, wymagane jest użycie wyszukiwania binarnego po wyniku, napisanego samodzielnie (tzn. **nie można** użyć bsearch itp. z `stdlib.h`). W zadaniu nie można również używać tablic.
 
 ### Wejście:
 
