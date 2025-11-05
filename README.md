@@ -5,7 +5,7 @@ Napisz program, który będzie znajdował pierwiastek całkowity podanej liczby 
 W pierwszej linii znajduje się liczba całkowita `n`, $1 \leq n \leq 2^{30}$. W kolejnych n liniach znajdują się liczby $k_{i}, i \in [0, n-1]$, $0 \leq k_i \leq 2^{31} - 1$, z których należy policzyć pierwiastek całkowity.
 
 ### Wyjście:
-W i-tej linii należy wypisać liczby całkowite, będące wynikiem działania $f(k_i)$.
+W i-tej linii należy wypisać liczbę całkowitą, będące wynikiem działania $f(k_i)$.
 
 #### Przykładowe wejście
 
